@@ -4,7 +4,7 @@ import time
 import mouse
 lista=[]
 zona=input('Ingrese Zona: ')
-recursos=input('Ingrese cantidad de recursos': )
+recursos=input('Ingrese cantidad de recursos:' )
 posicion=input('Ingrese posicion: ')
 listadetalles=[zona,recursos,posicion]
 listacolores=[]
